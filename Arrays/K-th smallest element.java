@@ -1,7 +1,4 @@
-// { Driver Code Starts
-//Initial Template for Java
-
-/*package whatever //do not write package name here */
+/* Find the Kth smallest element in given array.*/
 
 import java.io.*;
 import java.util.*;
@@ -26,10 +23,6 @@ class GFG {
 		}
 	}
 }
-// } Driver Code Ends
-
-
-//User function Template for Java
 
 class Solution{
     public static int kthSmallest(int[] arr, int l, int r, int k) 
