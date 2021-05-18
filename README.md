@@ -1,7 +1,5 @@
 ## DSAready
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![DSA brushed](https://img.shields.io/badge/DSA-brushed-orange)] [![maintained yes](https://img.shields.io/badge/maintained-yes-brightgreen)]  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue)]
-
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)[![DSA brushed](https://img.shields.io/badge/DSA-brushed-orange)]()[![maintained yes](https://img.shields.io/badge/maintained-yes-brightgreen)]()[![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue)]()
 
 # **Overview**
 
@@ -13,7 +11,7 @@ Whenever you solve any intermediate -> advance level problem, or a commonly aske
 
 **Make sure** your file name is the question title(not too long) in **CamelCase** with **space between words**.
 Each contributed file must contain the **problem statement**, **brief explainantion of approach** and **most efficient (time and space) solution** in said order only.
-Check (https://github.com/riddhi-jain/DSAmap/blob/main/Arrays/Count%20Iversions.py) as sample.
+Check https://github.com/riddhi-jain/DSAmap/blob/main/Arrays/Count%20Iversions.py as sample.
 Your solution can be in any programming language ;]
 
 
