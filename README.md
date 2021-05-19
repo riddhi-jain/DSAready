@@ -10,10 +10,12 @@ This project is an initiation to cover some good Data Structures and Algorithms 
 Whenever you solve any basic -> advance level problem, or a commonly asked one in various coding rounds of hiring process, coding challenges/practice question at any competitive programming platform, you can simultaneously be a part of [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) community 😃
 
 **Make sure** your file name is the question title(not too long) in **CamelCase** with **single space between words**.
+
 Each contributed file must contain the 1️⃣: **problem statement**, 2️⃣**brief explainantion of approach** and 3️⃣**most efficient (time and space) solution** in said order only.
 Check https://github.com/riddhi-jain/DSAmap/blob/main/Arrays/Count%20Iversions.py as sample.
 Your solution can be in any programming language 😉
-**Make sure** you generate a PR for the same data structure that related to your problem most specifically.
+
+**Make sure** you generate a PR for the same data structure that relates to your problem most specifically.
 
 
 
