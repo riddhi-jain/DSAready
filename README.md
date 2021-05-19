@@ -32,5 +32,5 @@ Step-4 - Create Pull Request (contribute to the original repository)
 Step-5 - Congratualtions 🎉 (thanks for your contribution 👍😃 )
 
 
-Looking forward for your PR 🙃
+Looking forward to your PR 🙃
 
