@@ -3,7 +3,7 @@
 
 # **Overview**
 
-This project is an initiation to cover some good Data Structures and Algorithms related problems. Being a programmer, practising on as many problems as possible is a must to hone your DSA knowledge. This is a try to create a repo that contains some good (basic - advanced level) questions with most efficient approaches. I aim to achieve this collaboratively, so feel free to contribute 😊
+This is a beginner-friendly project that aims to create a problem-set for various Data Structures and Algorithms. Being a programmer, practising on as many problems as possible is a must to hone your DSA knowledge. This is a try to create a repo that contains some good (basic - advanced level) questions with most efficient approaches. I aim to achieve this collaboratively, so feel free to contribute 😊
 
 # **Guidelines to be followed:**
 
