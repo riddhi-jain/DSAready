@@ -1,8 +1,10 @@
 //
-//  main.cpp
-//  77. Combinations
+// Problem Statement
+// Given two integers n and k, return all possible combinations of k numbers out of the range [1, n].
+// You may return the answer in any order.
 //
-//  Created by Giriraj Saigal on 22/05/21.
+// Leetcode Problem: 77. Combinations
+// Created by Giriraj Saigal on 22/05/21.
 //
 
 #include <iostream>
