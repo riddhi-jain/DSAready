@@ -1,4 +1,4 @@
-/*Given an array arr[] of size n and an element k. The task is to find the number of elements in array that appear more than n/k times.
+/*Given an array arr[] of size n and an element k. The task is to find the number of elements in array that appear more than X times(X = n/k).
 Approach:
 Create a hashmap and check for the value of each key in the map to be greater than n/k */
 
