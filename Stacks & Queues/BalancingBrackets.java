@@ -1,5 +1,5 @@
 // *********Problem Statement***********
-// Given a string expr, write a program toe xamine whether the pairs and
+// Given a string expr, write a program to examine whether the pairs and
 // the orders of  “{“, “}”, “(“, “)”, “[“, “]” are correct in expr
 
 package Stacks;
