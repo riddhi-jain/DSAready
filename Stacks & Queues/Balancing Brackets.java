@@ -1,6 +1,9 @@
 // *********Problem Statement***********
-// Given a string expr, write a program toe xamine whether the pairs and
+// Given a string expr, write a program to examine whether the pairs and
 // the orders of  “{“, “}”, “(“, “)”, “[“, “]” are correct in expr
+// Logic : We use a stack to push all the open brackets we encounter and when encountering a closed bracket we pop the stack
+// until we find the corresponding pair of open bracket
+// Time Complexity : O(N)
 
 package Stacks;
 
@@ -44,7 +47,7 @@ public class BalancingBrackets {
     return(stack.isEmpty());
 }
         public static void main (String args[]){
-            String expr = "[()][{}()][](){}([{}(())([[{}]])][])[]([][])(){}{{}{[](){}}}()[]({})[{}}]]}])}]]})]";
+            String expr = "{[()]}";
             
             if (areBracketsBalanced(expr)!=false){
                 System.out.println("Balanced");

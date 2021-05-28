@@ -1,6 +1,8 @@
 //  *********Problem Statement***********
 // Postfix expression evaluation using a stack
-
+// logic : We use a stack to push our operands. When we encounter an operator we
+// pop two elements from the stack and evaluate the expression with the said operator
+// Time Complexity : 0(N)
 package Stacks;
 
 import static java.lang.Character.isDigit;
