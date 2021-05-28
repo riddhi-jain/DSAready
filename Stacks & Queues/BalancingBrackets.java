@@ -1,3 +1,7 @@
+// *********Problem Statement***********
+// Given a string expr, write a program toe xamine whether the pairs and
+// the orders of  “{“, “}”, “(“, “)”, “[“, “]” are correct in expr
+
 package Stacks;
 
 import java.util.Stack;

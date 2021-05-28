@@ -1,3 +1,7 @@
+//// *********Problem Statement***********
+// Reversing a String using a Stack.
+// This is convenient since popping a string after pushing it to a stack gives the string in a reverse
+// order because of LIFO concept
 package Stacks;
 
 import java.util.Stack;

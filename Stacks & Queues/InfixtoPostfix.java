@@ -1,3 +1,14 @@
+// Infix expression: The expression of the form a op b. When an operator is in-between every pair of operands.
+// Postfix expression: The expression of the form a b op. When an operator is followed for every pair of operands.
+// *********Problem Statement***********
+// The compiler scans our expressions either from left to right or
+// from right to left
+// conside the expression : "a+b*c+d"
+// The compiler first scans the expression to evaluate the expression 'b*c' ( since * has higher precedence) 
+// to PEMDAS ) then again scans the expression to add a to it. The result is then added to d after another
+// scan. This repeated scanning being very inefficient it is better to convert the infix expression 
+// "a+b*c+d" to postfix : "abc*+d+". This can be evaluated easily using a Stack.
+
 package Stacks;
 
 import java.util.*;

@@ -1,3 +1,6 @@
+// *********Problem Statement***********
+// Stack DS implementation using Arrays
+
 package Stacks;
 import java.util.Scanner;
 
