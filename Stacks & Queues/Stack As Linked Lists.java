@@ -1,5 +1,6 @@
 // *********Problem Statement***********
 // Implement the Stack data structure using a LinkedList
+// Time Complexity : 0(1)
 package Stacks;
 
 

@@ -1,7 +1,9 @@
-//// *********Problem Statement***********
+// *********Problem Statement***********
 // Reversing a String using a Stack.
-// This is convenient since popping a string after pushing it to a stack gives the string in a reverse
+// logic :popping a string after pushing it to a stack gives the string in a reverse
 // order because of LIFO concept
+// Time Complexity : O(N)
+
 package Stacks;
 
 import java.util.Stack;
@@ -21,7 +23,7 @@ public class ReverseStringUsingStack {
         return result;
     }
     public static void main(String[] args) {
-        String expr = "Megha Is Amazing!";
+        String expr = "abcdefghijklmnopqrstuvwxyz";
         System.out.println(ReverseString(expr));
     }
     

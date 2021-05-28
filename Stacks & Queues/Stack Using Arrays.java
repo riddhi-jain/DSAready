@@ -1,6 +1,6 @@
 // *********Problem Statement***********
 // Stack DS implementation using Arrays
-
+// Time Complexity O(1)
 package Stacks;
 import java.util.Scanner;
 
