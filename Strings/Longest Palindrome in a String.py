@@ -23,7 +23,7 @@ class Solution:
             l0.append(S[i])
         
         # substring of length 2
-        start = 0
+        start = 0   # start stores the starting index of pallindeomic substring
         for i in range(n-1):
             if S[i] == S[i+1]:
                 table[i][i+1] = True
@@ -35,7 +35,7 @@ class Solution:
         for k in range(3, n+1):
             for i in range(0, n-k+1):
                 j = i+k-1
-                s = ""
+    
                 if (S[i] == S[j] and table[i+1][j-1]):
                     table[i][j] = True
                     if k > max_len:
