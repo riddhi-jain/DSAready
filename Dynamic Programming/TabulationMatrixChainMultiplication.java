@@ -1,9 +1,9 @@
 // Problem Statement -- 
 // Find the minimum number of multiplications needed to mulitply a sequence of matrices
-// logic : This is a dynamic programming problem.
-// Tabulation method has O(n^3) time complexity and uses iteration instead of recurssion 
+// logic : This is a dynamic programming problem
+// Tabulation uses iteration instead of recurssion 
 // So much more efficient
-
+// Time Complexity : O(N^3)
 package DynamicProgramming;
 
 
@@ -59,6 +59,6 @@ public class TabulationMatrixChainMultiplication {
         int arr[] = new int[] { 1,2,3,4}; // {1,2,3,4} => 1X2 2x3 3x4 So there are 3 matrices
         int size = arr.length;
         System.out.println("Minimum number of multiplications : " + TabulationChainOrderSolution(arr,size));
-        // output 18 is printed
     }
 }
+// Output : 18
