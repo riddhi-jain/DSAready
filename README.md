@@ -12,7 +12,7 @@ Whenever you solve any basic -> advance level problem, or a commonly asked one i
 **Make sure** your file name is the question title(not too long) in **CamelCase** with **single space between words**.
 
 Each contributed file must contain the 1️⃣: **problem statement**, 2️⃣**brief explainantion of approach** and 3️⃣**most efficient (time and space) solution** in said order only.
-Check https://github.com/riddhi-jain/DSAmap/blob/main/Arrays/Count%20Iversions.py as sample.
+Check [this](https://github.com/riddhi-jain/DSAmap/blob/main/Arrays/Count%20Iversions.py) as sample file.
 Your solution can be in any programming language 😉
 
 **Make sure** you generate a PR for the same data structure that relates to your problem most specifically.
