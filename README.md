@@ -1,5 +1,5 @@
 ## DSAready
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![DSA brushed](https://img.shields.io/badge/DSA-brushed-orange)]() [![maintained yes](https://img.shields.io/badge/maintained-yes-brightgreen)]() [![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![DSA covered](https://img.shields.io/badge/DSA-covered-orange)]() [![maintained yes](https://img.shields.io/badge/maintained-yes-brightgreen)]() [![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue)]()
 
 # **Overview**
 
