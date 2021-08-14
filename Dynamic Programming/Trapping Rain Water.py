@@ -1,10 +1,10 @@
 '''Given an array arr[] of N non-negative integers representing the height of blocks. If width of each block is 1, compute how much water can be trapped between the blocks during the rainy season.
 
 Approach:
-1. Find maximum height of bar from the left end upto an index i in the array \text{left\_max}left_max.
-2. Find maximum height of bar from the right end upto an index i in the array \text{right\_max}right_max.
-3. Iterate over the \text{height}height array and update ans:
-Add \min(\text{left\_max}[i],\text{right\_max}[i]) - \text{height}[i]min(left_max[i],right_max[i])−height[i] to \text{ans}ans 
+1. Find maximum height of bar from the left end upto an index i in the array, left_max.
+2. Find maximum height of bar from the right end upto an index i in the array, right_max.
+3. Iterate over the height array and update ans:
+Add min(left_max[i],right_max[i])−height[i] to ans 
  
  '''
 
