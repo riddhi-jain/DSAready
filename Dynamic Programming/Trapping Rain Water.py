@@ -1,6 +1,12 @@
 '''Given an array arr[] of N non-negative integers representing the height of blocks. If width of each block is 1, compute how much water can be trapped between the blocks during the rainy season.
+
 Approach:
- In the previous solution, to find the highest bar on the left and right, array traversal is needed which reduces the efficiency of the solution. To make this efficient one must pre-compute the highest bar on the left and right of every bar in linear time. Then use these pre-computed values to find the amount of water in every array element.'''
+1. Find maximum height of bar from the left end upto an index i in the array, left_max.
+2. Find maximum height of bar from the right end upto an index i in the array, right_max.
+3. Iterate over the height array and update ans:
+Add min(left_max[i],right_max[i])−height[i] to ans 
+ 
+ '''
 
 class Solution:
     def trappingWater(self, arr,n):
